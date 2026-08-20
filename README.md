@@ -1,5 +1,6 @@
 Breast Cancer Classification Pipeline
 📌 Overview
+
 This repository contains an automated pipeline for classifying breast cancer cells as benign or malignant based on their morphological features. This project was developed as a learning exercise for machine learning. During the work, I utilized Hands-On Machine Learning with Scikit-Learn by Aurélien Géron and AI tools to build a robust architecture.
 
 🧬 Biological Feature Engineering
